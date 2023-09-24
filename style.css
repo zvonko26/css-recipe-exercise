@@ -1,0 +1,43 @@
+
+.container{   
+position: relative; 
+width: 800px; 
+text-align: center;
+padding-left: 50px;
+padding-right: 50px;
+
+}
+
+
+.header{text-align: center;}
+
+.hero{
+
+ background-color:  #f4f4f4;
+ text-align: center;
+ padding-left: 50px;
+ padding-right: 50px;
+   text-shadow: grey 2px 2px; 
+   box-shadow: grey 3px 3px 3px 3px;   
+   
+}
+
+
+
+.list{ 
+    text-align: left;
+       padding-bottom: 5px;
+       padding-top: 5px;
+}
+
+
+.rating{
+   color: #F4B400; 
+   text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.container{
+font-family: 'Happy Monkey', cursive;
+}
